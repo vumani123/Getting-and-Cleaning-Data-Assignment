@@ -3,25 +3,25 @@
 - This code book summarizes the resulting data fields in tidy.txt.
 
 **Identifiers**
-subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+- subject - The ID of the test subject
+- activity - The type of activity performed when the corresponding measurements were taken
 
 **Measurements**
-tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
-tBodyAccStdX
-tBodyAccStdY
-tBodyAccStdZ
-tGravityAccMeanX
-tGravityAccMeanY
-tGravityAccMeanZ
-tGravityAccStdX
-tGravityAccStdY
-tGravityAccStdZ
-tBodyAccJerkMeanX
-tBodyAccJerkMeanY
-tBodyAccJerkMeanZ
+- tBodyAccMeanX
+- tBodyAccMeanY
+- tBodyAccMeanZ
+- tBodyAccStdX
+- tBodyAccStdY
+- tBodyAccStdZ
+- tGravityAccMeanX
+- tGravityAccMeanY
+- tGravityAccMeanZ
+- tGravityAccStdX
+- tGravityAccStdY
+- tGravityAccStdZ
+- tBodyAccJerkMeanX
+- tBodyAccJerkMeanY
+- tBodyAccJerkMeanZ
 tBodyAccJerkStdX
 tBodyAccJerkStdY
 tBodyAccJerkStdZ
@@ -67,8 +67,8 @@ fBodyAccJerkMeanFreqY
 fBodyAccJerkMeanFreqZ
 fBodyGyroMeanX
 fBodyGyroMeanY
-fBodyGyroMeanZ
-fBodyGyroStdX
+- fBodyGyroMeanZ
+- fBodyGyroStdX
 fBodyGyroStdY
 fBodyGyroStdZ
 fBodyGyroMeanFreqX
