@@ -1,6 +1,6 @@
 **Code Book**
 
-#This code book summarizes the resulting data fields in tidy.txt.
+- This code book summarizes the resulting data fields in tidy.txt.
 
 **Identifiers**
 subject - The ID of the test subject
